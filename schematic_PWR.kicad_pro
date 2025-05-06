@@ -483,6 +483,14 @@
     [
       "5172fa46-aba7-443b-901c-ede9474f0ff0",
       "Logic_power"
+    ],
+    [
+      "6caf726e-6749-4027-bb17-fb44ad15ad78",
+      "Power_relay"
+    ],
+    [
+      "ac952d49-c6b8-4a25-9eb5-040b6bb0e6d0",
+      "EMS"
     ]
   ],
   "text_variables": {}
