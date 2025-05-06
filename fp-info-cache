@@ -1,4 +1,4 @@
-22458530243357904
+22465516528160759
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -82107,8 +82107,29 @@ HE1AN-W-DC12V-Y6
 
 
 0
+4
+4
+RDC_generic
+JTAG_box_connector
+JTAG Box connector 1.27mm pitch
+JTAG Box connector 1.27mm
+0
+14
+14
+RDC_generic
+STM_logo_15mm
+
+
 0
 0
+0
+RDC_generic
+Toggle_switch
+
+
+0
+5
+4
 RDC_generic
 XR76208
 
@@ -82116,6 +82137,13 @@ XR76208
 0
 34
 34
+RDC_generic
+XT90-M
+
+
+0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
