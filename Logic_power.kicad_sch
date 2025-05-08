@@ -717,7 +717,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "C1") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -754,7 +754,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "C55") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -794,7 +794,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "R4") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -831,7 +831,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "D18") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -906,7 +906,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "U9") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -946,7 +946,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "R1") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -967,7 +967,7 @@
     (property "Datasheet" "~" (at 165.1 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C509937" (at 165.1 55.88 0)
+    (property "LCSC" "C22466347" (at 165.1 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "FT Rotation Offset" "" (at 165.1 55.88 0)
@@ -983,7 +983,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "D19") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -1020,7 +1020,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "C58") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -1057,7 +1057,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "C57") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -1101,7 +1101,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "U8") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -1138,7 +1138,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "C54") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -1178,7 +1178,7 @@
       )
       (project "schematic_PWR"
         (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360/5172fa46-aba7-443b-901c-ede9474f0ff0"
-          (reference "R1") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
