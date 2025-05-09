@@ -685,7 +685,7 @@
     (property "Value" "HE1AN-W-DC12V-Y6" (at 129.54 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RDC_generic:HE1AN-W-DC12V-Y6" (at 118.11 68.58 0)
+    (property "Footprint" "RDC_generic:HE1AN-W-DC12V-Y6+Y5" (at 118.11 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 118.11 69.85 0)
