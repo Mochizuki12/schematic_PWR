@@ -4999,6 +4999,23 @@
     )
   )
 
+  (sheet (at 303.53 82.55) (size 38.1 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7b1e39f0-3009-49d7-ba0f-3168942170f3)
+    (property "Sheetname" "Voltage_detector" (at 303.53 81.8384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Voltage_detector.kicad_sch" (at 303.53 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "schematic_PWR"
+        (path "/f4729e9b-1fa3-4d29-bc6f-94f153418360" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 173.99 153.67) (size 39.37 45.72) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

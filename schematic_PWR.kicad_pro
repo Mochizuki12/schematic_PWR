@@ -491,6 +491,10 @@
     [
       "ac952d49-c6b8-4a25-9eb5-040b6bb0e6d0",
       "EMS"
+    ],
+    [
+      "7b1e39f0-3009-49d7-ba0f-3168942170f3",
+      "Voltage_detector"
     ]
   ],
   "text_variables": {}
