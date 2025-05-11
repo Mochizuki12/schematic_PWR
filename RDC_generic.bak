@@ -3,7 +3,7 @@
     (property "Reference" "K" (at 12.7 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 0 0 0)
+    (property "Value" "HE1AN-W-DC12V-Y6" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "RDC_generic:HE1AN-W-DC12V-Y6" (at 0 -1.27 0)
